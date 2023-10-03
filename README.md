@@ -2,7 +2,8 @@
 
 <div align="center">
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-03C75A?style=flat&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=naver&logoColor=white"/>
 </div>
 
 ## 프로젝트 소개
